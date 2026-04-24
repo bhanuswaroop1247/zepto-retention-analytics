@@ -328,4 +328,4 @@ Each script prints a structured summary on completion. The full pipeline runs in
 
 ---
 
-*Synthetic dataset modelled on Indian quick commerce operations. Built as a portfolio project in April 2026.*
+
