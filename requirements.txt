@@ -1,0 +1,12 @@
+pandas
+openpyxl
+scikit-learn
+xgboost
+imbalanced-learn
+shap
+matplotlib
+seaborn
+plotly
+jupyter
+notebook
+sqlalchemy
